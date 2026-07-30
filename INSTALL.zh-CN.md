@@ -10,14 +10,15 @@
 
 - 运行 macOS 14 或更高版本的 Apple 芯片 Mac
 - 已在同一台 Mac 上安装并登录 Codex
-- 从仓库 **Releases** 页面下载最新的
-  `Token-Tea-*-macOS-arm64.zip`
+- 下载已打包的
+  [`Token-Tea-0.2.0-macOS-arm64.zip`](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip)
 
 Token Tea 会使用你现有的本地 Codex 登录状态，不会要求或保存单独的密码。
 
 ## 安装
 
-1. 从 **Releases** 下载 `Token-Tea-*-macOS-arm64.zip`。
+1. 下载
+   [`Token-Tea-0.2.0-macOS-arm64.zip`](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip)。
 2. 双击 ZIP 文件，解压得到 `Token Tea.app`。
 3. 将 `Token Tea.app` 拖入 **应用程序** 文件夹。
 4. 在 Finder 中打开 **应用程序**。
