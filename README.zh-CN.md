@@ -6,7 +6,8 @@ Token Tea 是一款轻量级原生 macOS 菜单栏应用，把 Codex 剩余额�
 使用量变化的茶。额度充足时茶杯是绿色且接近满杯；随着额度减少，茶水会逐渐下降，
 颜色也会变为橙色或红色。
 
-**只想直接使用？** 请查看[图文式安装与启动指南](INSTALL.zh-CN.md)。
+**只想直接使用？** [下载 Token Tea 0.2.0](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip)，
+并按照[图文式安装与启动指南](INSTALL.zh-CN.md)操作。
 
 ## 主要功能
 
