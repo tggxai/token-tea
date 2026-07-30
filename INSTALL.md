@@ -11,15 +11,16 @@ You need:
 
 - An Apple-silicon Mac running macOS 14 or later
 - Codex installed and signed in on the same Mac
-- The latest `Token-Tea-*-macOS-arm64.zip` file from the repository's
-  **Releases** page
+- The packaged
+  [`Token-Tea-0.2.0-macOS-arm64.zip`](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip)
 
 Token Tea uses your existing local Codex login. It does not ask for or store a
 separate password.
 
 ## Install
 
-1. Download `Token-Tea-*-macOS-arm64.zip` from **Releases**.
+1. Download
+   [`Token-Tea-0.2.0-macOS-arm64.zip`](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip).
 2. Double-click the ZIP file to extract `Token Tea.app`.
 3. Drag `Token Tea.app` into your **Applications** folder.
 4. Open **Applications** in Finder.
