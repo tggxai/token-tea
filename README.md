@@ -7,8 +7,8 @@ Codex allowance into a colorful cup of tea. A full green cup means plenty of
 usage remains; as the allowance falls, the cup drains and changes to orange or
 red.
 
-**Just want to use the app?** See the
-[step-by-step installation guide](INSTALL.md).
+**Just want to use the app?** [Download Token Tea 0.2.0](https://github.com/tggxai/token-tea/raw/refs/heads/main/downloads/Token-Tea-0.2.0-macOS-arm64.zip)
+and follow the [step-by-step installation guide](INSTALL.md).
 
 ## Highlights
 
